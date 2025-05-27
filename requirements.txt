@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+yfinance
+beautifulsoup4
+requests
+whisper
+pyttsx3
